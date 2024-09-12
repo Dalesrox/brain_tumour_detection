@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this notebook, we will cover the complete process of training an image multilabel classification model to classify brain tumours in three kinds:
+In this notebook, we will cover the complete process of training an image multilabel classification model to classify brain tumours from this Kaggle dataset (https://www.kaggle.com/datasets/rishiksaisanthosh/brain-tumour-classification) in three kinds:
 
     - Glioma
     - Meningioma
